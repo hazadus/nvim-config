@@ -1,6 +1,7 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
 require("config.ghcommitmsg")
+require("config.commitmsg")
 require("config.keymaps_normal")
 require("config.keymaps_insert")
 
